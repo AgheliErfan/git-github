@@ -2,3 +2,4 @@ firstBranch file
 
 # Modified in firstBranch.
 adding new ones here
+and more and more lines of notes
